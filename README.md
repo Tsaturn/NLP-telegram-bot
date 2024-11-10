@@ -1,4 +1,4 @@
-# TG_Bot_LM_Studio_example_1
+# NLP lab 4
  
 Скрипт для телеграм-бота из лабораторной 4 по NLP. 
 
